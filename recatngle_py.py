@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1GouM-oj3ltFtqeMRJOJpbCmEbIP0rH83
 """
 
-class Rectangle():
+class Rect():
   def __init__(self,length,breadth):
     self.length=length
     self.breadth=breadth
